@@ -1,7 +1,9 @@
 # The Missing Math & CS classes 
-##### addressed to people with little to no math background. 
+##### addressed to people with little to no math background and who want to specialize in AI/ML.
 
 this list of classes isn't complete yet and may get altered (removing certain courses, adding others), so take it with a grain of salt, it's just a prototype. 
+**courses on ML & AI will be added to the list later on**
+
 
 ## Discrete Mathematics : 
 
