@@ -35,6 +35,13 @@ more on non-linear programming | NA | NA | linear and non-linear programming thi
 Meta-heuristics | NA | NA | handbook of metaheuristics third edition michle gendreau | modeling, population/instance based methods, tabu search, swarm intelligence, GVNS, genetic algorithms, ... 
 [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) | MIT | Gilbert Strang | linear algebra and learning from data by gilbert strang | matrix decomposition, linear regression, neural nets ... 
 
+## More on Discrete Mathematics : 
+
+Course | School | Instructor | Book Recommendation | Keywords 
+:-- | :--: | :--: | :--: | :--: 
+Topological Spaces and Manifolds | NA | NA | NA | NA
+
+
 ## Probability Theory & Statistics : 
 Course | School | Instructor | Book Recommendation | Keywords 
 :-- | :--: | :--: | :--: | :--: 
